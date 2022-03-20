@@ -1,5 +1,10 @@
 # Websocket
 
+This is a very basic websocket implementation.
+The objective was to explore websockets using Node.
+
+##
+
 > mkdir websocket-example
 > cd websocket-example
 > touch index.js
